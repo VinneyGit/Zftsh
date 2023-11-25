@@ -1,0 +1,2 @@
+# Zftsh
+Studiyng in Zftsh
